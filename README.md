@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Paweł Wasilewski, Full-Stack Developer</h1>
+<h1 align="center">Hey 👋 I'm Paweł Wasilewski</h1>
 
 ###
 
@@ -24,6 +24,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="60" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
 </div>
 
 ###
