@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">My Technologies</h3>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="60" alt="trello logo"  />
   <img width="20" />
