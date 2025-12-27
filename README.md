@@ -2,11 +2,9 @@
 
 ###
 
-<h2 align="left">My Technologies</h2>
+<br clear="both">
 
-###
-
-<p align="center">Front-End</p>
+<h3 align="left">My Technologies</h3>
 
 ###
 
@@ -25,10 +23,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo"  />
 </div>
-
-###
-
-<p align="center">Back-End + DevOps</p>
 
 ###
 
