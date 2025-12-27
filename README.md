@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Paweł Wasilewski</h1>
+<h1 align="center">Hey 👋 I'm Paweł Wasilewski, Full-Stack Developer</h1>
 
 ###
 
